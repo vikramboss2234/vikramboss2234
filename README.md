@@ -1,42 +1,31 @@
-![Hacker Intro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Vikram+Boss;Creator+from+Jaipur%2C+India;Music+%2B+AI+Workflows)
-
 # Hi, I'm Vikram Boss 👋
 
-**Founder of RS Rajasthani**
+**Founder of RS Rajasthani** · Creator from Jaipur, India
 
-```text
-> whoami
-Vikram Boss — Jaipur, India
-> title
-Founder of RS Rajasthani
-> mission
-Build simple AI tools for music creators
-> status
-[OK] RS Worldwide Music — running
-```
-
-Creator from Jaipur, India, working at the intersection of **music and AI workflows**.
-
-I run **RS Worldwide Music**, a music label publishing Rajasthani, Meenawati and Rasiya music, and I build small, practical tools that help creators with everyday release work.
+I help music creators use AI tools in a simple, practical way — in Hindi and English. My focus is Codex workflows for creators: packaging a release, writing captions, organizing a catalog, and checking a release before publishing.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-000000?style=flat-square&logo=openai&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Hacker](https://img.shields.io/badge/Theme-Hacker-00FF00?style=flat-square&logo=linux&logoColor=black)
+![Hindi](https://img.shields.io/badge/Hindi-FF671F?style=flat-square&logoColor=white)
+![English](https://img.shields.io/badge/English-0078D4?style=flat-square&logoColor=white)
 
-## 🚀 What I'm building
+## 🎯 Codex focus
 
+As a Content Ambassador applicant, my first contribution is a Hindi and English tutorial and demo: build a title and hashtag helper for creators with Codex, with a public repo and a short video, so Jaipur creators can repeat it for their own releases.
+
+## 🤖 RS — My AI Assistant
+
+**[RS](https://github.com/vikramboss2234/rs-ai-assistant)** — my small Hinglish AI assistant for creators. It chats in simple Hinglish, helps with creative ideas, and points creators to simple tools for their releases.
+
+## 🚀 Projects
+
+- **[codex-creator-playbook](https://github.com/vikramboss2234/codex-creator-playbook)** — a short, practical playbook for creators using Codex workflows.
 - **[youtube-title-hashtag-generator](https://github.com/vikramboss2234/youtube-title-hashtag-generator)** — a small Python CLI that suggests YouTube titles and hashtags for music videos.
 - **[reel-caption-helper](https://github.com/vikramboss2234/reel-caption-helper)** — a small Python CLI that builds Reel captions with title and hashtags.
 - **[song-catalog-organizer](https://github.com/vikramboss2234/song-catalog-organizer)** — a small Python CLI that organizes a song catalog CSV.
-- **[codex-creator-playbook](https://github.com/vikramboss2234/codex-creator-playbook)** — a short, practical playbook for creators using Codex workflows.
 - **[music-release-checklist](https://github.com/vikramboss2234/music-release-checklist)** — a simple release checklist for independent music creators.
 - **[rs-ai-assistant](https://github.com/vikramboss2234/rs-ai-assistant)** — RS, my Hinglish AI assistant demo for creators.
-
-
-## 🤖 RS - My AI Assistant
-
-**[RS](https://github.com/vikramboss2234/rs-ai-assistant)** — my small Hinglish AI assistant for creators. It chats in simple Hinglish, helps with creative ideas, and points creators to simple tools for their releases.
 
 ## 🎵 RS Worldwide Music
 
@@ -44,8 +33,8 @@ RS Worldwide Music is my music label, focused on Bhajan, Meenawati and Rasiya mu
 
 ## 📊 GitHub stats
 
-![Vikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikramboss2234&show_icons=true&theme=dark&title_color=00FF00&icon_color=00FF00&text_color=00FF00&bg_color=000000)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikramboss2234&layout=compact&theme=dark&title_color=00FF00&text_color=00FF00&bg_color=000000)
+![Vikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikramboss2234&show_icons=true&theme=tokyonight)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikramboss2234&layout=compact&theme=tokyonight)
 
 ## 🧭 What I'm exploring
 
@@ -57,7 +46,4 @@ RS Worldwide Music is my music label, focused on Bhajan, Meenawati and Rasiya mu
 
 Right here on GitHub — or on Instagram at **@rsrajasthanimusic**.
 
-```text
-$ echo "Thanks for visiting!"
 Thanks for visiting!
-```
