@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Vikram Meena 👋
 
-<!--
-**vikramboss2234/vikramboss2234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Creator from Jaipur, India, working at the intersection of **music and AI workflows**.
 
-Here are some ideas to get you started:
+I run **RS Worldwide Music**, a music label publishing Rajasthani, Meenawati and Rasiya music, and I build small, practical tools that help creators with everyday release work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+## 🚀 What I'm building
+
+- **[youtube-title-hashtag-generator](https://github.com/vikramboss2234/youtube-title-hashtag-generator)** — a small Python CLI that suggests YouTube titles and hashtags for music videos.
+- **[reel-caption-helper](https://github.com/vikramboss2234/reel-caption-helper)** — a small Python CLI that builds Reel captions with title and hashtags.
+- **[song-catalog-organizer](https://github.com/vikramboss2234/song-catalog-organizer)** — a small Python CLI that organizes a song catalog CSV.
+- **[codex-creator-playbook](https://github.com/vikramboss2234/codex-creator-playbook)** — a short, practical playbook for creators using Codex workflows.
+- **[music-release-checklist](https://github.com/vikramboss2234/music-release-checklist)** — a simple release checklist for independent music creators.
+
+## 🎵 RS Worldwide Music
+
+RS Worldwide Music is my music label, focused on Bhajan, Meenawati and Rasiya music from Jaipur, India. I use simple AI-assisted workflows for packaging, captions and catalog work around releases.
+
+## 📊 GitHub stats
+
+![Vikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikramboss2234&show_icons=true&theme=tokyonight)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikramboss2234&layout=compact&theme=tokyonight)
+
+## 🧭 What I'm exploring
+
+- AI agents and AI coding tools (including OpenAI Codex)
+- Practical AI workflows for creators and small labels
+- Hindi and regional-language creator experiences
+
+## 📫 Reach me
+
+Right here on GitHub — or on Instagram at **@rsrajasthanimusic**.
+
+Thanks for visiting!
