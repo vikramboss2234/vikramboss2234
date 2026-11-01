@@ -1,6 +1,6 @@
 # Hi, I'm Vikram Boss 👋
 
-**Founder of RS Rajasthani** · Creator from Jaipur, India
+**CEO · Founder of RS Rajasthani · CMS Manager** · Creator from Jaipur, India
 
 I help music creators use AI tools in a simple, practical way — in Hindi and English. My focus is Codex workflows for creators: packaging a release, writing captions, organizing a catalog, and checking a release before publishing.
 
