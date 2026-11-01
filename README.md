@@ -1,8 +1,14 @@
-![Hacker Intro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Vikram+Meena;Creator+from+Jaipur%2C+India;Music+%2B+AI+Workflows)
+![Hacker Intro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Vikram+Boss;Creator+from+Jaipur%2C+India;Music+%2B+AI+Workflows)
+
+# Hi, I'm Vikram Boss 👋
+
+**Founder of RS Rajasthani**
 
 ```text
 > whoami
-Vikram Meena — Jaipur, India
+Vikram Boss — Jaipur, India
+> title
+Founder of RS Rajasthani
 > mission
 Build simple AI tools for music creators
 > status
@@ -25,6 +31,12 @@ I run **RS Worldwide Music**, a music label publishing Rajasthani, Meenawati and
 - **[song-catalog-organizer](https://github.com/vikramboss2234/song-catalog-organizer)** — a small Python CLI that organizes a song catalog CSV.
 - **[codex-creator-playbook](https://github.com/vikramboss2234/codex-creator-playbook)** — a short, practical playbook for creators using Codex workflows.
 - **[music-release-checklist](https://github.com/vikramboss2234/music-release-checklist)** — a simple release checklist for independent music creators.
+- **[rs-ai-assistant](https://github.com/vikramboss2234/rs-ai-assistant)** — RS, my Hinglish AI assistant demo for creators.
+
+
+## 🤖 RS - My AI Assistant
+
+**[RS](https://github.com/vikramboss2234/rs-ai-assistant)** — my small Hinglish AI assistant for creators. It chats in simple Hinglish, helps with creative ideas, and points creators to simple tools for their releases.
 
 ## 🎵 RS Worldwide Music
 
